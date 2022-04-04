@@ -20,10 +20,16 @@ Schedule
 - Notification throughout the day for when each class
 - “Class is Now Starting: <class name> <location>”
 
-Resources 
+Resources
+  
+*Vishal: 
 - Campus Map 
+  - WebKit
 - Lunch Menu (https://northcreek.nsd.org/resources/food-services) 
+  - WebKit 
 - Teacher/Staff Directory 
+ 
+*Advaith: 
 - Tools: 
   - Synergy Grade Report 
   - Schoology 
