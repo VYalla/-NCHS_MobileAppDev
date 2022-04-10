@@ -3,3 +3,12 @@ func openUrl(link:String) {
         UIApplication.shared.open(url)
     }
 }
+
+
+
+Button (
+   action: {
+        openUrl(link: google_link + club_data[i].name)
+    }, label: {
+        Image(<image>) 
+}
