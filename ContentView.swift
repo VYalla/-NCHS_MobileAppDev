@@ -1,65 +1,27 @@
 //
 //  ContentView.swift
-//  @NCHS
+//  EmailingFunctionality
 //
-//  Created by Advaith Vijayakumar on 4/9/22.
+//  Created by Advaith Vijayakumar on 4/17/22.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            HStack {
-                Spacer()
-                Text("Resources")
-                    .bold()
-                    .font(.largeTitle)
-                    .underline()
-                Spacer()
-            }
-            
-            HStack {
-                Spacer()
-                Image("Campus Map")
-                Spacer()
-                Image("Clever")
-                Spacer()
-            }
-            
-            HStack {
-                Spacer()
-                Image("Google Drive")
-                Spacer()
-                Image("Lunch Menu")
-                Spacer()
-            }
-            
-            HStack {
-                Spacer()
-                Image("Naviance")
-                Spacer()
-                Image("Remind")
-                Spacer()
-            }
-            
-            HStack {
-                Spacer()
-                Image("Schoology")
-                Spacer()
-                Image("Staff Directory")
-                Spacer()
-            }
-            
-            HStack {
-                Spacer()
-                Image("StudentVue")
-                Spacer()
-                Image("Zoom")
-                Spacer()
-            }
-            
-        }
+        Button(action: {
+           sendEmail()
+         }) {
+             Text("Send Email")
+         }
+    }
+    
+    func sendEmail() {
+        EmailHelper.shared.sendEmail(
+            subject: "Test",
+            body: "Test",
+            to: "vkumars72@gmail.com"
+        )
     }
 }
 
