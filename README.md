@@ -1,6 +1,6 @@
 # FBLAMoblieAppDev_NCHS
 
-**North Creek High School Mobile App Development Authors: Advaith Vijayakumar and Vishal Yalla 
+**North Creek High School Mobile App Development Authors: Advaith Vijayakumar and Vishal Yalla** 
 
 **Abstract** @NCHS is an application designed for students at our school, North Creek High School. Our app is aligned with the Future Business Leaders of America (FBLA) Mobile Application Development competetive event, and as such provides the following features: a scheduling feature, allowing students to input their schedule, information about extracurricular activities, a lunch menu, the ability to email teachers and staff, a calendar that is updated with school information, and several other mainstream features of professional iPhone Operating System development. The application is designed to function alongside a stable firebase as a backend data structure that is used to support the home page, resource page, and all communication features of the application. @NCHS is designed to meet the needs that remove the barriers of North Creek students from thriving in the current educational state. This application was programmed entirely in Apple's SwiftUI language with a backend coded in a mix of Firebase and Python.
 
@@ -11,13 +11,13 @@ Root Pages, Support Pages, Classes/Objects _Two types of user accounts are suppo
 - Schedule Page (Student Support Pages: Input Schedule -> Course List, Teacher List, Class Start Notification; no staff view is provided for this page; Class: UserDefaults, NotificationManager)
 Prerequisites for for Running Project and Viewing Code
 
-#Developer Signing
+# Developer Signing
 - Mac Operating System
 - XCode
 - Alternative SwiftUI Integrated Development Environment (e.g. Mac Operating System: AppCode, Windows: Text editor such as Atom or SublimeText)
 - **Recommended: iPhone or iPad Operating System with version 15.2 or newer.
 
-#Installation Process
+# Installation Process
 
 Download XCode from the Mac App Store and create a free developer account on Apple's Developer Portal.
 Once you are done downloading XCode, download the @NCHS.xcworkspace file from this GitHub project.
@@ -46,7 +46,7 @@ Other relevant information for this project can be found in the following slides
 *Copyright Information Google logo used for application graphics in accordance with trademark usage guidelines available here. The App Store, iOS, iPhone, iPad, XCode, and Swift are all registered trademarks of Apple Inc. All images used in this presentation and the tangible planning document are protected under Fair Use for educational purposes. No credit is claimed for any images in this presentation.*
 
 
-#App Pages (High Level): 
+# App Pages (High Level): 
 
 Home 
 - Dashboard 
