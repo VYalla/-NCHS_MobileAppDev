@@ -1,6 +1,6 @@
 # @NCHS
 
->_Simplifying the North Creek High School Digital Experience_
+>_Enhancing the North Creek High School Digital Experience_
 
 **Project by Advaith Vijayakumar and Vishal Yalla (North Creek High School)** <br>
 **FBLA Mobile Application Development Submission (2021 – 2022)**
@@ -12,11 +12,12 @@ Aligned with the the Future Business Leaders of America (FBLA) Mobile Applicatio
 - a schedling feature allowing students to input their schedule
 - information about extracurricular activities
 - a lunch menu
-- the ability to email
-- teachers and staff
-- and a calendar that is updated with school information.
+- the ability to email teachers and staff
+- a calendar that is updated with school information
 
-and several other mainstream features of professional iPhone Operating System development. The application is designed to function alongside a stable firebase as a backend data structure that is used to support the home page, resource page, and all communication features of the application. @NCHS is designed to meet the needs that remove the barriers of North Creek students from thriving in the current educational state. This application was programmed entirely in Apple's SwiftUI language with a backend coded in a mix of Firebase and Python.
+In addition, @NCHS is equipped with numerous additional features such as an announcements tab, bug reporting system, class start alarm, extracurricular tracker, and SMART goal setter. These along with the under-the hood security features of @NCHS work to enhance the North Creek High School Digital Experience.
+  
+  and several other mainstream features of professional iPhone Operating System development. The application is designed to function alongside a stable firebase as a backend data structure that is used to support the home page, resource page, and all communication features of the application. @NCHS is designed to meet the needs that remove the barriers of North Creek students from thriving in the current educational state. This application was programmed entirely in Apple's SwiftUI language with a backend coded in a mix of Firebase and Python.
   
 </div>
 
@@ -57,11 +58,6 @@ Similarly to the MySQL system software, its primary functionality is to ensure d
 - Additionally, Firebase provided utilities for tracking analytics, and reporting and fixing application crashes.
 Other relevant information for this project can be found in the following slideshow: [Insert slides link]
 
-*Acknowledgments* Thanks to the 100 Days of SwiftUI - Hacking with Swift course by Paul Hudson for SwiftUI application development learning modules. Thanks to Mr. Jeffery Stride, our (CSE 142) AP Computer Science A teacher, for teaching object-oriented programming techniques utilized in this project. Thanks to the Future Business Leaders Of America for this enterprising and rewarding opportunity in this mobile application development competition.
-
-*Copyright Information Google logo used for application graphics in accordance with trademark usage guidelines available here. The App Store, iOS, iPhone, iPad, XCode, and Swift are all registered trademarks of Apple Inc. All images used in this presentation and the tangible planning document are protected under Fair Use for educational purposes. No credit is claimed for any images in this presentation.*
-
-
 # App Pages (High Level): 
 
 Home 
@@ -84,14 +80,14 @@ Schedule
 
 Resources
   
-*Vishal: 
+Vishal: 
 - Campus Map 
   - WebKit
 - Lunch Menu (https://northcreek.nsd.org/resources/food-services) 
   - WebKit 
 - Teacher/Staff Directory 
  
-*Advaith: 
+Advaith: 
 - Tools: 
   - Synergy Grade Report 
   - Schoology 
@@ -104,5 +100,10 @@ Opportunities
   - General Database 
   - Tracker 
   - Course Catalog 
-    
-#
+
+
+# Acknowledgments 
+  
+ Thanks to the 100 Days of SwiftUI - Hacking with Swift course by Paul Hudson for SwiftUI application development learning modules. Thanks to Mr. Jeffery Stride, our (CSE 142) AP Computer Science A teacher, for teaching object-oriented programming techniques utilized in this project. Thanks to the Future Business Leaders Of America for this enterprising and rewarding opportunity in this mobile application development competition.
+
+*Copyright Information Google logo used for application graphics in accordance with trademark usage guidelines available here. The App Store, iOS, iPhone, iPad, XCode, and Swift are all registered trademarks of Apple Inc. All images used in this presentation and the tangible planning document are protected under Fair Use for educational purposes. No credit is claimed for any images in this presentation.*
