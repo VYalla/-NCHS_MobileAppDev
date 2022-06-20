@@ -1,7 +1,5 @@
-# FBLAMoblieAppDev_NCHS
-
-**@NCHS by Advaith Vijayakumar and Vishal Yalla
-FBLA Mobile Application Development
+# @NCHS by Advaith Vijayakumar and Vishal Yalla
+**FBLA Mobile Application Development**
 
 # Abstract** 
 @NCHS is an application designed for students at our school, North Creek High School. Our app is aligned with the Future Business Leaders of America (FBLA) Mobile Application Development competetive event, and as such provides the following features: a scheduling feature, allowing students to input their schedule, information about extracurricular activities, a lunch menu, the ability to email teachers and staff, a calendar that is updated with school information, and several other mainstream features of professional iPhone Operating System development. The application is designed to function alongside a stable firebase as a backend data structure that is used to support the home page, resource page, and all communication features of the application. @NCHS is designed to meet the needs that remove the barriers of North Creek students from thriving in the current educational state. This application was programmed entirely in Apple's SwiftUI language with a backend coded in a mix of Firebase and Python.
