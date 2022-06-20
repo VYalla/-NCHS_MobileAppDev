@@ -1,6 +1,7 @@
 # @NCHS by Advaith Vijayakumar and Vishal Yalla
 
-_Simplifying the North Creek digital experience _
+_Simplifying the North Creek High School digital experience_
+
 **FBLA Mobile Application Development**
 
 # Abstract** 
