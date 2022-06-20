@@ -1,5 +1,5 @@
-<p align="center">
-    # @NCHS
+# <p align="center">
+    @NCHS
 </p>
 
 _Simplifying the North Creek High School digital experience_
