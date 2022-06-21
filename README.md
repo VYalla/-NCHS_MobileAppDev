@@ -81,10 +81,10 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 ![@NCHS Home Page Flowchart](https://user-images.githubusercontent.com/102203536/174726396-16ef5f13-e66b-4057-9505-5c2ba9c5207e.png)
 
 ## Updates Page
-![@NCHS Updates Page Flowchart](https://user-images.githubusercontent.com/102203536/174882534-ae769596-89bd-49ad-91f1-c278f3071009.png)
+![@NCHS Updates Page Flowchart](https://user-images.githubusercontent.com/102203536/174883372-547bb80a-66c4-4b94-a71c-91c3e6d2fd85.png)
 
 ## Schedules Page
-![@NCHS Updates Page Flowchart](https://user-images.githubusercontent.com/102203536/174883022-52154c7f-8233-4bc3-9c56-48b6723fbc9f.png)
+![@NCHS Schedule Page Flowchart](https://user-images.githubusercontent.com/102203536/174883589-5ac482b9-bf2b-4ba0-ab45-f59957d6394d.png)
 
 ## Opportunities Page
 
