@@ -34,7 +34,7 @@ Prerequisites for for Running Project and Viewing Code
 - Alternative SwiftUI Integrated Development Environment (e.g. Mac Operating System: AppCode, Windows: Text editor such as Atom or SublimeText)
 - **Recommended: iPhone or iPad Operating System with version 15.2 or newer.
 
-# Installation Process
+## Installation Process
 
 Download XCode from the Mac App Store and create a free developer account on Apple's Developer Portal.
 Once you are done downloading XCode, download the @NCHS.xcworkspace file from this GitHub project.
@@ -58,7 +58,7 @@ Similarly to the MySQL system software, its primary functionality is to ensure d
 - Additionally, Firebase provided utilities for tracking analytics, and reporting and fixing application crashes.
 Other relevant information for this project can be found in the following slideshow: [Insert slides link]
 
-# App Pages (High Level): 
+## App Pages (High Level): 
 
 Home 
 - Dashboard 
@@ -102,10 +102,15 @@ Opportunities
   - Course Catalog 
 
 
-# Acknowledgments 
+## Acknowledgments 
   
- Thanks to the [100 Days of SwiftUI - Hacking with Swift](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson for SwiftUI application development learning modules. 
- Thanks to Mr. Jeffery Stride, our (CSE 142) AP Computer Science A teacher, for teaching object-oriented programming techniques utilized in this project. 
-  Thanks to the Future Business Leaders Of America for this enterprising and rewarding opportunity in this mobile application development competition.
+Thanks to the [100 Days of SwiftUI - Hacking with Swift](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson for its free collection of videos, tutorials, tests, and more, allowing us to learn SwiftUI effectively!
+ 
+Thanks to Mr. Jeffery Stride, our AP Computer Science A teacher, for providing instruction of programming techniques leveraged in this project!
+  
+Thanks to Ms. Nancy Nygren, our school technology specialist for assistance in using the ICalendar Python module for web scraping [the calendar  displayed on the school website] (https://northcreek.nsd.org/our-school/calendar?cal_date=2022-06-01).
+
+Thanks to the Future Business Leaders Of America for conducting this enterprising and rewarding mobile application development opportunity!
+ 
 
 *Copyright Information Google logo used for application graphics in accordance with trademark usage guidelines available here. The App Store, iOS, iPhone, iPad, XCode, and Swift are all registered trademarks of Apple Inc. All images used in this presentation and the tangible planning document are protected under Fair Use for educational purposes. No credit is claimed for any images in this presentation.*
