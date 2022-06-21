@@ -35,12 +35,14 @@ Prerequisites for for Running Project and Viewing Code
 
 ### To View the Application on an iOS
 
-**Prerequisite: iOS with version 15.2 or newer ** <br>
+**Prerequisite: iOS with version 15.2 or newer** <br>
 **1.**  
 
 
 ### To View The Application on a macOS
+**Prerequisite: macOS with version
 
+**1.** 
 
 # Developer Signing
 - Mac Operating System
