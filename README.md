@@ -39,10 +39,11 @@ Prerequisites for for Running Project and Viewing Code
 **1.**  
 
 
-### To View The Application on a macOS
-**Prerequisite: macOS with version
+### To View The Application on macOS
+**Prerequisite: macOS Monterey version 12.0
 
-**1.** 
+**1.** Install Xcode Developer Tools version 13.4.1 from the Mac App Store. https://apps.apple.com/us/app/xcode/id497799835?mt=12
+**2.** 
 
 # Developer Signing
 - Mac Operating System
