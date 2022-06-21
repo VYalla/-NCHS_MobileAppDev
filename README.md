@@ -104,6 +104,8 @@ Opportunities
 
 # Acknowledgments 
   
- Thanks to the 100 Days of SwiftUI - Hacking with Swift course by Paul Hudson for SwiftUI application development learning modules. Thanks to Mr. Jeffery Stride, our (CSE 142) AP Computer Science A teacher, for teaching object-oriented programming techniques utilized in this project. Thanks to the Future Business Leaders Of America for this enterprising and rewarding opportunity in this mobile application development competition.
+ Thanks to the [100 Days of SwiftUI - Hacking with Swift](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson for SwiftUI application development learning modules. 
+ Thanks to Mr. Jeffery Stride, our (CSE 142) AP Computer Science A teacher, for teaching object-oriented programming techniques utilized in this project. 
+  Thanks to the Future Business Leaders Of America for this enterprising and rewarding opportunity in this mobile application development competition.
 
 *Copyright Information Google logo used for application graphics in accordance with trademark usage guidelines available here. The App Store, iOS, iPhone, iPad, XCode, and Swift are all registered trademarks of Apple Inc. All images used in this presentation and the tangible planning document are protected under Fair Use for educational purposes. No credit is claimed for any images in this presentation.*
