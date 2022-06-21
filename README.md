@@ -81,7 +81,10 @@ Other relevant information for this project can be found in the following slides
 
 ## App Pages (High Level): 
 
-Home 
+### Home
+![@NCHS Home Page Flowchart](https://user-images.githubusercontent.com/102203536/174725679-d69d57fb-2778-44e7-bc13-ad7cca9d5f32.png)
+
+
 - Dashboard 
 - Happening Now
 - Grid layout where staff (other students?) can post current events/announcements (such as competitions, sports, club meetings, etc) 
