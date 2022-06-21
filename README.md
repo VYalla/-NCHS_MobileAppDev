@@ -36,40 +36,29 @@ Prerequisites for for Running Project and Viewing Code
 ### To View the Application on an iOS
 
 **Prerequisite: iOS with version 15.2 or newer** <br>
-**1.**  
+**1.** Install Apple's TestFlight application on the iOS or iPadOS device that you’ll use for testing. https://apps.apple.com/us/app/testflight/id899247664 <br>
+**2.** Tap the following public link on your device: ( Insert Link here )
+**3.** Tap "Install" or "Update" and test @NCHS on your device!
 
 
 ### To View The Application on macOS
-**Prerequisite: macOS Monterey version 12.0
+**Prerequisite:** macOS Monterey version 12.0
 
-**1.** Install Xcode Developer Tools version 13.4.1 from the Mac App Store. https://apps.apple.com/us/app/xcode/id497799835?mt=12
-**2.** 
+**1.** Install Xcode Developer Tools version 13.4.1 from the Mac App Store. https://apps.apple.com/us/app/xcode/id497799835?mt=12 <br>
+**2.** Follow the provided instructions to download this repository as a ZIP file: https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/ <br>
+**3.** Locate the @NCHS.xcodeprof file within the newly extracted @NCHS folder and open the file with XCode. <br>
+**4.** After clicking open, click on the uppermost blue @NCHS file and change the provisioning profile to your own developer account. <br>
+**5.** Build the project using the following instructions. Set the build scheme to @NCHS and ensure that the selected iOS simulator meets the prerequisites to view the application on iOS. https://developer.apple.com/documentation/xcode/building-and-running-an-app?changes=_8 
 
-# Developer Signing
-- Mac Operating System
-- XCode
-- Alternative SwiftUI Integrated Development Environment (e.g. Mac Operating System: AppCode, Windows: Text editor such as Atom or SublimeText)
-- **Recommended: iPhone or iPad Operating System with version 15.2 or newer.
-
-## Installation Process
-
-Download XCode from the Mac App Store and create a free developer account on Apple's Developer Portal.
-Once you are done downloading XCode, download the @NCHS.xcworkspace file from this GitHub project.
-Build the program and run the program on xCode's iPhone 8 simulator.
-To access full application functionality, the following further process is recommended:
-
-Connect your personal iPhone to the personal computer using a Universal Serial Bus cable plug.
-Using the created developer account, select your phone to download the application.
-Approve and trust the computer performing this action for the above step to properly function as expected.
-Access full application functionality with local notification and emailing capabilities now unlocked.
-Usage of application on a physical iPhone Operating System device is the running approach this program is designed for.
+**Optional**
+To directly download @NCHS onto your iPhone, plug your own phone into the computer using a Universal Serial Bus cable and select your phone as the iOS simulator. You may have to approve the application on your iPhone and ensure that your iPhone meets the prerequisites to view the application on iOS.
 
 ## Built With
 **Frontend: Swift** <br>
 _Apple's powerful and intuitive programming language for iOS._
 
 **Backend: Firebase** <br>
-_Google's backend-as-a-Service app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for static files._
+_Google's backend-as-a-service app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for static files._
 
 **Integrated Development Environment:** Xcode; Compatible with AppCode, Atom, CLion, CodeRunner, Sublime Text, Visual Studio Code
 
