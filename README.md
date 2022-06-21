@@ -70,20 +70,23 @@ _Google's backend-as-a-Service app development platform that provides hosted bac
 
 **Integrated Development Environment:** Xcode; Compatible with AppCode, Atom, CLion, CodeRunner, Sublime Text, Visual Studio Code
 
-- Swift UI code for user interface and implementation.
-- Integrated Development Environment: Xcode, Visual Studio Code, Jupyter Lab
-Backend Database Structure
-- Google Firebase: an application development software used to develop Android, iPhone, and website operating systems.
+
 Functioned as database structure running the Home Page, Resource Page, and all communication-related aspects of the application.
 - These communication-related aspects included the interactive Announcements Page and Updates Page.
 - Additionally, Firebase provided utilities for tracking analytics, and reporting and fixing application crashes.
-Other relevant information for this project can be found in the following slideshow: [Insert slides link]
 
-## App Pages (High Level): 
+## App Pages (High Level)
 
-### Home
-![@NCHS Home Page Flowchart](https://user-images.githubusercontent.com/102203536/174725679-d69d57fb-2778-44e7-bc13-ad7cca9d5f32.png)
+## Home
+![@NCHS Home Page Flowchart](https://user-images.githubusercontent.com/102203536/174726396-16ef5f13-e66b-4057-9505-5c2ba9c5207e.png)
 
+## Updates Page
+
+## Schedules Page
+
+## Opportunities Page
+
+## Resources Page
 
 - Dashboard 
 - Happening Now
