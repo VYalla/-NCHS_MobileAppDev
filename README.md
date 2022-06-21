@@ -37,7 +37,7 @@ Prerequisites for for Running Project and Viewing Code
 
 **Prerequisite: iOS with version 15.2 or newer** <br>
 **1.** Install Apple's TestFlight application on the iOS or iPadOS device that you’ll use for testing. https://apps.apple.com/us/app/testflight/id899247664 <br>
-**2.** Tap the following public link on your device: ( Insert Link here )
+**2.** Tap the following public link on your device: ( Insert Link here ) <br>
 **3.** Tap "Install" or "Update" and test @NCHS on your device!
 
 
