@@ -5,6 +5,8 @@
 **Project by Advaith Vijayakumar and Vishal Yalla (North Creek High School)** <br>
 **FBLA Mobile Application Development Submission (2021 – 2022)**
 
+Link to Presentation Slides: ( Insert Link Here )
+
 ## Abstract 
 <div class=text-justify>
 Aligned with the the Future Business Leaders of America (FBLA) Mobile Application Development competitive event guidelines, @NCHS is a new mobile application developed for students at North Creek High School. The app includes the following required features:
@@ -47,14 +49,21 @@ Approve and trust the computer performing this action for the above step to prop
 Access full application functionality with local notification and emailing capabilities now unlocked.
 Usage of application on a physical iPhone Operating System device is the running approach this program is designed for.
 
-Built With
+## Built With
+**Frontend: Swift **
+_Apple's powerful and intuitive programming language for iOS._
+
+**Backend: Firebase**
+_Google's backend-as-a-Service app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for static files._
+
+**Integrated Development Environment:** Xcode; Compatible with AppCode, Atom, CLion, CodeRunner, Sublime Text, Visual Studio Code
+
 - Swift UI code for user interface and implementation.
 - Integrated Development Environment: Xcode, Visual Studio Code, Jupyter Lab
 Backend Database Structure
 - Google Firebase: an application development software used to develop Android, iPhone, and website operating systems.
 Functioned as database structure running the Home Page, Resource Page, and all communication-related aspects of the application.
 - These communication-related aspects included the interactive Announcements Page and Updates Page.
-Similarly to the MySQL system software, its primary functionality is to ensure data integrity and eliminate database errors.
 - Additionally, Firebase provided utilities for tracking analytics, and reporting and fixing application crashes.
 Other relevant information for this project can be found in the following slideshow: [Insert slides link]
 
