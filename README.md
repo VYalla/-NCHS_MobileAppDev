@@ -50,10 +50,10 @@ Access full application functionality with local notification and emailing capab
 Usage of application on a physical iPhone Operating System device is the running approach this program is designed for.
 
 ## Built With
-**Frontend: Swift **
+**Frontend: Swift** <br>
 _Apple's powerful and intuitive programming language for iOS._
 
-**Backend: Firebase**
+**Backend: Firebase** <br>
 _Google's backend-as-a-Service app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for static files._
 
 **Integrated Development Environment:** Xcode; Compatible with AppCode, Atom, CLion, CodeRunner, Sublime Text, Visual Studio Code
