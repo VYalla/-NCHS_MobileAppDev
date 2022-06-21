@@ -30,6 +30,18 @@ Root Pages, Support Pages, Classes/Objects _Two types of user accounts are suppo
 - Schedule Page (Student Support Pages: Input Schedule -> Course List, Teacher List, Class Start Notification; no staff view is provided for this page; Class: UserDefaults, NotificationManager)
 Prerequisites for for Running Project and Viewing Code
 
+## Installation Process
+
+
+### To View the Application on an iOS
+
+**Prerequisite: iOS with version 15.2 or newer ** <br>
+**1.**  
+
+
+### To View The Application on a macOS
+
+
 # Developer Signing
 - Mac Operating System
 - XCode
