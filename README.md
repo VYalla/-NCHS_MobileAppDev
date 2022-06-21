@@ -108,7 +108,7 @@ Thanks to the [100 Days of SwiftUI - Hacking with Swift](https://www.hackingwith
  
 Thanks to Mr. Jeffery Stride, our AP Computer Science A teacher, for providing instruction of programming techniques leveraged in this project!
   
-Thanks to Ms. Nancy Nygren, our school technology specialist for assistance in using the ICalendar Python module for web scraping [the calendar  displayed on the school website] (https://northcreek.nsd.org/our-school/calendar?cal_date=2022-06-01).
+Thanks to Ms. Nancy Nygren, our school technology specialist for assistance in using the ICalendar Python module for web scraping [the calendar  displayed on the school website](https://northcreek.nsd.org/our-school/calendar?cal_date=2022-06-01)!
 
 Thanks to the Future Business Leaders Of America for conducting this enterprising and rewarding mobile application development opportunity!
  
