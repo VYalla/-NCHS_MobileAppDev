@@ -11,6 +11,7 @@ Link to Presentation Slides: ( Insert Link Here )
 
 @NCHS is a new mobile application developed for students at North Creek High School. The primary goal of @NCHS is to provide a streamlined platform for students at North Creek High School that encompasses current and future utilization of technology on campus. Consistent with the Future Business Leaders of America (FBLA) Mobile Application Development competetive event guidelines, the app includes the following required features: a schedling feature allowing students to input their schedule, information about extracurricular activities, a lunch menu, the ability to email teachers and staff, and a calendar that is updated with school information.
 In addition, @NCHS is equipped with numerous additional features such as an announcements tab, bug reporting system, class start alarm, extracurricular tracker, and SMART goal setter. These along with the under-the hood security features of @NCHS work to enhance the North Creek High School Digital Experience.
+
 and several other mainstream features of professional iPhone Operating System development. The application is designed to function alongside a stable firebase as a backend data structure that is used to support the home page, resource page, and all communication features of the application. @NCHS is designed to meet the needs that remove the barriers of North Creek students from thriving in the current educational state. This application was programmed entirely in Apple's SwiftUI language with a backend coded in a mix of Firebase and Python.
 
 ## Installation Process
@@ -48,6 +49,10 @@ _Google's backend-as-a-service app development platform that provides hosted bac
 Functioned as database structure running the Home Page, Resource Page, and all communication-related aspects of the application.
 - These communication-related aspects included the interactive Announcements Page and Updates Page.
 - Additionally, Firebase provided utilities for tracking analytics, and reporting and fixing application crashes.
+
+## Security
+
+@NCHS supports both a student view and a staff view mode, each with its own separate application. The staff view's TestFlight public link is not publicly displayed due to  the administrative abilities that come with it. In the "Updates" page, students will have the option of requesting an update, which will be received by other users. As a precautionary measure against spamming and inappropriate content, staff users will have the ability to confirm or deny student updates before they are published to other student users. This ability is enabled through the backend firebase powering the app.
 
 ## App Pages (High Level)
 
