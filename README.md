@@ -69,6 +69,10 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 ## App Pages (High Level)
 
 ## Home
+
+### Notable Features
+- Announcements
+
 ![@NCHS Home Page Flowchart](https://user-images.githubusercontent.com/102203536/174726396-16ef5f13-e66b-4057-9505-5c2ba9c5207e.png)
 
 ## Updates Page
