@@ -38,10 +38,13 @@ To directly download @NCHS onto your iPhone, plug your own phone into the comput
 
 ## Built With
 **Frontend: Swift** <br>
-_Apple's powerful and intuitive programming language for iOS._
+- _Apple's powerful and intuitive programming language for iOS._ <br>
+- Used for user interface and implementation.
 
 **Backend: Firebase** <br>
-_Google's backend-as-a-service app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for static files._
+- _Google's backend-as-a-service app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for static files._
+- Used to enable Google account authentication and store user data, including schedule, tracker information, goals, and personal calendar.
+- Powers communication-based features of app including announcements and updates, and staff additional abilities in these areas.
 
 **Integrated Development Environment:** Xcode; Compatible with AppCode, Atom, CLion, CodeRunner, Sublime Text, Visual Studio Code
 
@@ -56,6 +59,14 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 
 ## App Pages (High Level)
 
+## Accounts Page
+
+**Objective:** To store the user account information and provide relevant links.
+
+### Notable Features
+- Displays user name, email address, and profile picture.
+- Provides links to the terms and conditions, help, and report a bug capability.
+
 ## Home
 
 **Objective:** To welcome the user to the application.
@@ -68,58 +79,46 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 
 ## Updates Page
 
+**Objective:** To efficiently inform the student of upcoming events and information.
+
 ### Notable Features
-- 
+- A list of student-submitted updates titled "Happening Now" and input field for student to submit their own updates. <br>
+- Buttons redirecting the user to various North Creek calendars including a daily calendar, yearlong calendar, and athletics calendar. <br>
+- Links to North Creek's Instagram and Facebook pages, both embedded within the app.
 
 ![@NCHS Updates Page Flowchart](https://user-images.githubusercontent.com/102203536/174883372-547bb80a-66c4-4b94-a71c-91c3e6d2fd85.png)
 
-## Schedules Page
+## Schedule Page
+
+**Objective:** To allow a student to keep track of their academic schedule for the respective school year.
+
+### Notable Features
+- Buttons allowing students to edit their schedule for either semester 1 or semester 2.
+- Drag-down lists for course name, teacher, and room number for each of periods one through seven.
+- Push notifications that, if enabled, remind students daily at 8:15 that class is starting.
+
 ![@NCHS Schedule Page Flowchart](https://user-images.githubusercontent.com/102203536/174883589-5ac482b9-bf2b-4ba0-ab45-f59957d6394d.png)
 
 ## Opportunities Page
 
+**Objective:** To inform students of extracurricular opportunities availible to them.
+
+### Notable Features
+- Buttons page directing to separate subpages titled "Highlights", "Goals", "Calendar", "Tracker", and "Explore". <br>
+- Highlights page contains links to various articles discussing the importance of extracurricular activities. <br>
+- Goals page contains input fields for student goals, and confirm whether the goal is SMART. (Specific, Measurable, Accurate, Reasonable, Time-Sensitive) <br>
+- Calendar page allows students to mark important events in a calendarized view. <br>
+- Tracker page allows students to list extracurricular activities they are involved in. <br>
+- Explore page produces a list of clubs, competitions, and volunteering opportunities, with North Creek clubs starred.
+
 ## Resources Page
 
-- Dashboard 
-- Happening Now
-- Grid layout where staff (other students?) can post current events/announcements (such as competitions, sports, club meetings, etc) 
-- Profile
+**Objective:** To equip students with school-provided resources that will aid them through their academic journey.
 
-School Updates 
-- Urgent Push notifications to all student users 
-- Similar to announcements over intercom 
-- Upcoming/Calendar 
-- News: All NCHS Social Media Sites
-
-Schedule 
-- 7 Period Schedule  
-- Courses/Teacher/Location  
-- Notification throughout the day for when each class
-- “Class is Now Starting: <class name> <location>”
-
-Resources
-  
-Vishal: 
-- Campus Map 
-  - WebKit
-- Lunch Menu (https://northcreek.nsd.org/resources/food-services) 
-  - WebKit 
-- Teacher/Staff Directory 
- 
-Advaith: 
-- Tools: 
-  - Synergy Grade Report 
-  - Schoology 
-  - Clever 
-  - Remind 
-
-Opportunities
-- Extracurriculars (XTracker Pages) 
-  - NCHS Offerings 
-  - General Database 
-  - Tracker 
-  - Course Catalog 
-
+### Notable Features
+- Buttons directing to locations containing digital tools, a staff directory, campus map, print schedule, and a lunch menu.
+- Digital tools includes links to Clever, Google Drive, Naviance, Remind, Schoology, and StudentVUE.
+- Staff directory lists name of all North Creek faculty with the ability to email each individual listed.
 
 ## Acknowledgments 
   
