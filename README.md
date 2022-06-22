@@ -137,4 +137,8 @@ Thanks to Ms. Nancy Nygren, our school technology specialist for assistance in u
 Thanks to the Future Business Leaders Of America for conducting this enterprising and rewarding mobile application development opportunity!
  
 
-*Copyright Information Google logo used for application graphics in accordance with trademark usage guidelines available here. The App Store, iOS, iPhone, iPad, XCode, and Swift are all registered trademarks of Apple Inc. All images used in this presentation and the tangible planning document are protected under Fair Use for educational purposes. No credit is claimed for any images in this presentation.*
+## Copyright Information 
+  
+ Google logo used for application graphics in accordance with trademark usage guidelines available here. 
+ The App Store, iOS, iPhone, iPad, XCode, and Swift are all registered trademarks of Apple Inc. 
+ All images used in this presentation and the tangible planning document are protected under Fair Use for educational purposes.
