@@ -9,21 +9,13 @@ Link to Presentation Slides: ( Insert Link Here )
 
 ## Abstract 
 <div class=text-justify>
-Aligned with the the Future Business Leaders of America (FBLA) Mobile Application Development competitive event guidelines, @NCHS is a new mobile application developed for students at North Creek High School. The app includes the following required features:
-  
-- a schedling feature allowing students to input their schedule
-- information about extracurricular activities
-- a lunch menu
-- the ability to email teachers and staff
-- a calendar that is updated with school information
+@NCHS is a new mobile application developed for students at North Creek High School. The primary goal of @NCHS is to provide a streamlined platform for students at North Creek High School that encompasses current and future utilization of technology on campus. Consistent with the Future Business Leaders of America (FBLA) Mobile Application Development competetive event guidelines, the app includes the following required features: a schedling feature allowing students to input their schedule, information about extracurricular activities, a lunch menu, the ability to email teachers and staff, and a calendar that is updated with school information.
 
 In addition, @NCHS is equipped with numerous additional features such as an announcements tab, bug reporting system, class start alarm, extracurricular tracker, and SMART goal setter. These along with the under-the hood security features of @NCHS work to enhance the North Creek High School Digital Experience.
   
   and several other mainstream features of professional iPhone Operating System development. The application is designed to function alongside a stable firebase as a backend data structure that is used to support the home page, resource page, and all communication features of the application. @NCHS is designed to meet the needs that remove the barriers of North Creek students from thriving in the current educational state. This application was programmed entirely in Apple's SwiftUI language with a backend coded in a mix of Firebase and Python.
   
 </div>
-
-Root Pages, Support Pages, Classes/Objects _Two types of user accounts are supported by this application: a user account and staff account.
 
 - Home Page (Student Support Pages: Announcements; Staff Support Pages: Announcements, Add Announcements; Class: AnnFormat)
 - Updates Page (Student Support Pages: Request Update, Happening Now; Staff Support Pages: Review Request; Class: RequestType)
@@ -70,12 +62,19 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 
 ## Home
 
+**Objective:** To welcome the user to the application.
+
 ### Notable Features
-- Announcements
+- Personalized greeting to user and North Creek image.
+- List of schoolwide announcements.
 
 ![@NCHS Home Page Flowchart](https://user-images.githubusercontent.com/102203536/174726396-16ef5f13-e66b-4057-9505-5c2ba9c5207e.png)
 
 ## Updates Page
+
+### Notable Features
+- 
+
 ![@NCHS Updates Page Flowchart](https://user-images.githubusercontent.com/102203536/174883372-547bb80a-66c4-4b94-a71c-91c3e6d2fd85.png)
 
 ## Schedules Page
