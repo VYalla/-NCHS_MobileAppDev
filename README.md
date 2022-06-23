@@ -120,7 +120,6 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 - Staff directory lists name of all North Creek faculty with the ability to email each individual listed.
 
 ## Acknowledgments 
-  
 Thanks to the [100 Days of SwiftUI - Hacking with Swift](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson for its free collection of videos, tutorials, tests, and more, allowing us to learn SwiftUI effectively!
  
 Thanks to Mr. Jeffery Stride, our knowledgable and passionate AP Computer Science A teacher! <br>
@@ -129,9 +128,10 @@ Thanks to Ms. Nancy Nygren, our school technology specialist, for assistance in 
 
 Thanks to the FBLA-PBL organization for conducting this enterprising and rewarding mobile application development opportunity!
  
-
 ## Copyright Information 
-  
- Google logo used for application graphics in accordance with trademark usage guidelines available here. 
- The App Store, iOS, iPhone, iPad, XCode, and Swift are all registered trademarks of Apple Inc. 
- All images used in this presentation and the tangible planning document are protected under Fair Use for educational purposes.
+- All unoriginal images used throughout the presentation of @NCHS are protected under [Fair Use and Other Educational Uses](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) and credited at (Sources for @NCHS Images). <br>
+- [SF Symbols](https://developer.apple.com/sf-symbols/) were integrated to generate TabView icons. <br>
+- The App Store, iOS, iPhone, iPad, XCode, SF Icons, Swift, and SwiftUI are all registered trademarks of Apple Inc. <br>
+- Firebase is a trademarks of Google LLC. <br>
+- Google logo used for application graphics in accordance with [Google's trademark usage guidelines](https://www.google.com/permissions/trademark/rules.html). <br>
+- All images and works of visual art not acknowledged above that are contained in the presentation of @NCHS are our original works of authorship.
