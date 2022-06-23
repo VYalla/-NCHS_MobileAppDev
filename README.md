@@ -134,4 +134,4 @@ Thanks to the FBLA-PBL organization for conducting this enterprising and rewardi
 - The App Store, iOS, iPhone, iPad, XCode, SF Icons, Swift, and SwiftUI are all registered trademarks of Apple Inc. <br>
 - Firebase is a trademarks of Google LLC. <br>
 - Google logo used for application graphics in accordance with [Google's trademark usage guidelines](https://www.google.com/permissions/trademark/rules.html). <br>
-- All images and works of visual art not acknowledged above that are contained in the presentation of @NCHS are our original works of authorship.
+- All images not acknowledged above that are contained in the presentation of @NCHS are our original works of authorship.
