@@ -5,10 +5,8 @@
 **Project by Advaith Vijayakumar and Vishal Yalla (North Creek High School)** <br>
 **FBLA Mobile Application Development Submission (2021 – 2022)**
 
-## Relevant Links
-
-@NCHS Presentation Slides • @NCHS Promo Video • @NCHS Planning Document (As of April 20th) <br>
-*Note: Additional features have been added since April 20th, however the Planning Documents still accurately conveys the Software Development Lifecycle approach leveraged throughout the development of @NCHS.
+**Relevant Links**
+@NCHS Presentation Slides • @NCHS Promo Video • @NCHS Planning Document (Updated as of April 20th) <br>
 
 ## Abstract 
 
@@ -125,11 +123,11 @@ Functioned as database structure running the Home Page, Resource Page, and all c
   
 Thanks to the [100 Days of SwiftUI - Hacking with Swift](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson for its free collection of videos, tutorials, tests, and more, allowing us to learn SwiftUI effectively!
  
-Thanks to Mr. Jeffery Stride, our AP Computer Science A teacher, for providing instruction of programming techniques leveraged in this project!
-  
-Thanks to Ms. Nancy Nygren, our school technology specialist for assistance in using the ICalendar Python module for web scraping [the calendar  displayed on the school website](https://northcreek.nsd.org/our-school/calendar?cal_date=2022-06-01)!
+Thanks to Mr. Jeffery Stride, our knowledgable and passionate AP Computer Science A teacher! <br>
+Thanks to Mr. Ian Barnes, our dedicated and supportive chapter and regional FBLA advisor! <br>
+Thanks to Ms. Nancy Nygren, our school technology specialist, for assistance in web scraping using the iCalendar Python module!
 
-Thanks to the Future Business Leaders Of America for conducting this enterprising and rewarding mobile application development opportunity!
+Thanks to the FBLA-PBL organization for conducting this enterprising and rewarding mobile application development opportunity!
  
 
 ## Copyright Information 
