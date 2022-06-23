@@ -5,7 +5,10 @@
 **Project by Advaith Vijayakumar and Vishal Yalla (North Creek High School)** <br>
 **FBLA Mobile Application Development Submission (2021 – 2022)**
 
-Link to Presentation Slides: ( Insert Link Here )
+## Relevant Links
+
+@NCHS Presentation Slides • @NCHS Promo Video • @NCHS Planning Document (As of April 20th) <br>
+*Note: Additional features have been added since April 20th, however the Planning Documents still accurately conveys the Software Development Lifecycle approach leveraged throughout the development of @NCHS.
 
 ## Abstract 
 
@@ -44,7 +47,7 @@ To directly download @NCHS onto your iPhone, plug your own phone into the comput
 - Used to enable Google account authentication and store user data, including schedule, tracker information, goals, and personal calendar.
 - Powers communication-based features of app including announcements and updates, and staff additional abilities in these areas.
 
-**Integrated Development Environment:** Xcode; Compatible with AppCode, Atom, CLion, CodeRunner, Sublime Text, Visual Studio Code
+**Integrated Development Environment:** Xcode; Compatible with AppCode, CodeRunner, Visual Studio Code
 
 
 Functioned as database structure running the Home Page, Resource Page, and all communication-related aspects of the application.
