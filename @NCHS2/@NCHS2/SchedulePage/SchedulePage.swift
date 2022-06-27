@@ -27,6 +27,7 @@ struct SchedulePage: View {
                     
                     Spacer()
 
+                    // Navigates to Semester 1 subpage.
                     NavigationLink(destination: Sem1Page()) {
                         Text("Semester 1")
                             .font(.largeTitle)
@@ -41,8 +42,7 @@ struct SchedulePage: View {
                                 .shadow(color: Color.white.opacity(1), radius: 10, x: -5, y: -5))
                     }
                     
-                    
-                    
+                    // Navigates to Semester 2 subpage.
                     NavigationLink(destination: Sem2Page()) {
                         Text("Semester 2")
                             .font(.largeTitle)
