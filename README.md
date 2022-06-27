@@ -5,7 +5,7 @@
 **<p align="center"> 
   Project by Advaith Vijayakumar and Vishal Yalla (North Creek High School) <br>
   FBLA Mobile Application Development Submission (2021 – 2022)
-</p>**
+</p>
 
 
 
