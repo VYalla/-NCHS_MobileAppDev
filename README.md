@@ -7,8 +7,6 @@
 **Relevant Links** <br>
 - @NCHS Presentation Slides <br>
 - @NCHS Promotional Video <br>
-- @NCHS Planning Document (Updated as of April 20th)
-- [FBLA Competitive Event Guidelines 2021 – 2022](https://www.fbla-pbl.org/media/2022/03/FBLA21001_CE_guidelines_FBLA_v2.pdf) 
 
 ## Abstract 
 
