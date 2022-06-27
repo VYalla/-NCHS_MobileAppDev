@@ -1,11 +1,8 @@
-![FBLA Mobile Application Development Slides](https://user-images.githubusercontent.com/102203536/175858839-9d34ad99-8409-4934-a75e-b47ab79407b0.png)
-
+![FBLA Mobile Application Development Slides](https://user-images.githubusercontent.com/102203536/175859560-dedaba40-6660-43ce-8e15-6113978913e3.png)
 
 # @NCHS
 
 >_Enhancing the North Creek High School Digital Experience_
-
-<h4 align=center>FBLA Mobile Application Development Submission 2021-2022 <br> Project By Advaith Vijayakumar and Vishal Yalla (North Creek High School) </h4>
 
 **Relevant Links** <br>
 - @NCHS Presentation Slides <br>
