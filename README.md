@@ -13,13 +13,13 @@
 
 
 
-<h4 align=justify>
+<h align=justify>
  
 @NCHS is a new mobile application developed for students at North Creek High School. The primary goal of @NCHS is to provide a streamlined platform for students at North Creek High School that encompasses current and future utilization of technology on campus. Consistent with the Future Business Leaders of America (FBLA) Mobile Application Development [competetive event guidelines](https://www.fbla-pbl.org/media/2022/03/FBLA21001_CE_guidelines_FBLA_v2.pdf), the app includes the following required features: a schedling feature allowing students to input their schedule, information about extracurricular activities, a lunch menu, the ability to email teachers and staff, a calendar that is updated with school information, integration of social media platforms, and a bug reporting system. In addition, @NCHS is equipped with numerous additional features such as an announcements and updates tab system, a class start alarm, an extracurricular tracker, and SMART goal setter. These along with the under-the-hood security features of @NCHS work to enhance the North Creek High School Digital Experience and give the app a professional feel. 
 
 @NCHS was built with Apple's SwiftUI framework and the Firebase backend database structure and is deployable on iOS and iPadOS platforms. Our custom code paired with these frameworks enabled us to build a well-crafted app that is both aesthetically pleasing and functionally robust. 
 
-</h4>
+</h>
 
 @NCHS is a new mobile application developed for students at North Creek High School. The primary goal of @NCHS is to provide a streamlined platform for students at North Creek High School that encompasses current and future utilization of technology on campus. Consistent with the Future Business Leaders of America (FBLA) Mobile Application Development [competetive event guidelines](https://www.fbla-pbl.org/media/2022/03/FBLA21001_CE_guidelines_FBLA_v2.pdf), the app includes the following required features: a schedling feature allowing students to input their schedule, information about extracurricular activities, a lunch menu, the ability to email teachers and staff, a calendar that is updated with school information, integration of social media platforms, and a bug reporting system. In addition, @NCHS is equipped with numerous additional features such as an announcements and updates tab system, a class start alarm, an extracurricular tracker, and SMART goal setter. These along with the under-the-hood security features of @NCHS work to enhance the North Creek High School Digital Experience and give the app a professional feel. 
 
