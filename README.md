@@ -2,11 +2,18 @@
 
 >_Enhancing the North Creek High School Digital Experience_
 
+<p align="center">
+    
 **Project by Advaith Vijayakumar and Vishal Yalla (North Creek High School)** <br>
 **FBLA Mobile Application Development Submission (2021 – 2022)**
+ 
+</p>
 
-**Relevant Links**
-@NCHS Presentation Slides • @NCHS Promo Video • @NCHS Planning Document (Updated as of April 20th) <br>
+
+**Relevant Links** <br>
+- @NCHS Presentation Slides <br>
+- @NCHS Promotional Video <br>
+- @NCHS Planning Document (Updated as of April 20th)
 
 ## Abstract 
 
