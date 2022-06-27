@@ -12,12 +12,15 @@ extension Color {
     static let offWhite = Color(red: 245 / 255, green: 245 / 255, blue: 250 / 255)
 }
 
-/* RoundedRectangle(cornerRadius: 25)
+/* DELETED CODE
+RoundedRectangle(cornerRadius: 25)
  .fill(Color.offWhite)
  .frame(width: 350, height: 100)
  .shadow(color: Color.black.opacity(0.2), radius: 10, x: 10, y: 10)
- .shadow(color: Color.white.opacity(0.7), radius: 10, x: -5, y: -5)*/
+ .shadow(color: Color.white.opacity(0.7), radius: 10, x: -5, y: -5) */
 
+
+// Struct that represents the Resources page of the app's user interface.
 struct ResourcePage: View {
     var body: some View {
         
@@ -31,7 +34,8 @@ struct ResourcePage: View {
                 VStack(spacing: 35) {
                     
                     Spacer()
-
+                    
+                    // Navigates to Digital Tools subpage.
                     NavigationLink(destination: Text("Hello")) {
                         Text("Digtial Tools")
                             .font(.title)
@@ -46,8 +50,7 @@ struct ResourcePage: View {
                                 .shadow(color: Color.white.opacity(1), radius: 10, x: -5, y: -5))
                     }
                     
-                    
-                    
+                    // Navigates to Staff Directory subpage.
                     NavigationLink(destination: StaffView()) {
                         Text("Staff Directory")
                             .font(.title)
@@ -62,7 +65,7 @@ struct ResourcePage: View {
                                 .shadow(color: Color.white.opacity(1), radius: 10, x: -5, y: -5))
                     }
                     
-                    
+                    // Navigates to Campus Map subpage.
                     NavigationLink(destination: Text("Hello")) {
                         Text("Campus Map")
                             .font(.title)
@@ -77,6 +80,7 @@ struct ResourcePage: View {
                                 .shadow(color: Color.white.opacity(1), radius: 10, x: -5, y: -5))
                     }
                     
+                    // Navigates to Reference Schedule subpage.
                     NavigationLink(destination: Text("Hello")) {
                         Text("ID")
                             .font(.title)
@@ -91,6 +95,7 @@ struct ResourcePage: View {
                                 .shadow(color: Color.white.opacity(1), radius: 10, x: -5, y: -5))
                     }
                     
+                    // Navigates to Lunch Menu subpage.
                     NavigationLink(destination: Text("Hello")) {
                         Text("Lunch Menu")
                             .font(.title)
