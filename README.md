@@ -139,7 +139,8 @@ Thanks to the FBLA-PBL organization for conducting this enterprising and rewardi
 ## Copyright Information 
 - All unoriginal images used throughout the presentation of @NCHS are protected under [Fair Use and Other Educational Uses](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) and credited at (Sources for @NCHS Images). <br>
 - [SF Symbols](https://developer.apple.com/sf-symbols/) were integrated to generate TabView icons. <br>
-- The App Store, iOS, iPhone, iPad, XCode, SF Icons, Swift, and SwiftUI are all registered trademarks of Apple Inc. <br>
-- Firebase is a trademarks of Google LLC. <br>
+- iPadOS, Swift, SwiftUI, and Xcode are all [registered trademarks of Apple Inc.](https://www.apple.com/legal/intellectual-property/trademark/appletmlist.html) <br>
+- Firebase platform is a registered trademark of Google LLC. <br>
+- iOS is a registered trademark of Cisco in the U.S. and other countries. <br>
 - Google logo used for application graphics in accordance with [Google's trademark usage guidelines](https://www.google.com/permissions/trademark/rules.html). <br>
 - All images not acknowledged above that are contained in the presentation of @NCHS are our original works of authorship.
