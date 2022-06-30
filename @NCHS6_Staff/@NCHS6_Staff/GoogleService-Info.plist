@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>883081806431-kb5gftptaa1hj67qhodui5a3e3v2pdkr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.883081806431-kb5gftptaa1hj67qhodui5a3e3v2pdkr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtdHP47ayIqoPlNIf96B7GvPlw5CB_NMg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>883081806431</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vyalla.-NCHS6-Staff</string>
+	<key>PROJECT_ID</key>
+	<string>nchs3-80d25</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nchs3-80d25.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:883081806431:ios:7bc666ff68e0fe43d091ea</string>
+	<key>DATABASE_URL</key>
+	<string>https://nchs3-80d25-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
