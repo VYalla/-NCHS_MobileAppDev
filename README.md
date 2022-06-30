@@ -58,13 +58,20 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 - These communication-related aspects included the interactive Announcements Page and Updates Page.
 - Additionally, Firebase provided utilities for tracking analytics, and reporting and fixing application crashes.
 
-## Security
+## Privacy and Security
 
 <p align=justify>
-@NCHS supports both a student view and a staff view mode, each with its own separate application. The staff view's TestFlight public link is not publicly displayed due to  the administrative abilities that come with it. In the "Updates" page, students will have the option of requesting an update, which will be received by other users. As a precautionary measure against spamming and inappropriate content, staff users will have the ability to confirm or deny student updates before they are published to other student users. This ability is enabled through the backend firebase powering the app. Additionally, only staff users may publish announcements to the homepage.
+@NCHS supports both a student view and a staff view mode, each with its own separate application. The user interface for each mode differs, in that the staff application's user experience is revolved around the equipped administrative abilities. These administrative abilities can be observed by students in Announcements and Updates. For Announcements, only staff members may add an announcement. For Updates, student users will have the option of submitting an update request. This update request is recieved by the staff user who the student specifies in the Teacher input field. As a precautionary measure against student misuse of the Updates system, this staff user will have the ability to confirm or deny student updates before they are synchronized to the accounts of other student users. This ability is enabled through the backend database structure.
+</p>
+
 <p align=justify>
+@NCHS strives to ensure the protection of each user through responsible practices of protecting the private nature of student personal information. All personal information collected by @NCHS is done exclusively with your consent, by means of registering an account with @NCHS. The personal information collected is only used by @NCHS developers to plan content more appropriately, based on user interests. @NCHS does not, under any circumstances, share user information with any third parties, including public organizations, corporations or individuals, except when applicable by law. @NCHS does not sell, communicate or divulge your information to any mailing lists. Users are entitled to know when their information is collected and be informed of the purpose of such collection. Users may, at any time, access, modify, or delete the personal information @NCHS has collected about them. This, as well as any pending questions or comments regarding this policy can be done by emailing advaithvijayakumar06@gmail.com or vishalryalla@gmail.com.
+</p>
  
 ## App Pages (High Level)
+- Used navigation links in a ScrollView with LinearGradient boxes containing various information. 
+- 
+![@NCHS High Level Workflow](https://user-images.githubusercontent.com/102203536/176675325-d91b233a-2514-4ea0-a394-22b9ceedf608.png)
 
 ## Accounts Page
 
