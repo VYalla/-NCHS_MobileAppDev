@@ -21,15 +21,6 @@
 
 ## Installation Process
 
-### To View the Application on an iOS
-**Prerequisite: iOS with version 15.2 or newer**
-
-
-**1.** Install Apple's TestFlight application on the iOS or iPadOS device that you’ll use for testing. https://apps.apple.com/us/app/testflight/id899247664 <br>
-**2.** Tap the following public link on your device: ( Insert Link here ) <br>
-**3.** Tap "Install" or "Update" and test @NCHS on your device!
-
-
 ### To View The Application on macOS
 **Prerequisite:** macOS Monterey version 12.0 or newer
 
@@ -44,8 +35,11 @@
    https://developer.apple.com/documentation/xcode/building-and-running-an-app?changes=_8 
 ```
 
-#### Optional
-To directly download @NCHS onto your iPhone, plug your own phone into the computer using a Universal Serial Bus cable and select your phone as the iOS simulator. You may have to approve the application on your iPhone and ensure that your iPhone meets the prerequisites to view the application on iOS.
+### To View the Application on iOS
+```
+6. To directly download @NCHS onto your iPhone, plug your own phone into the computer using a Universal Serial Bus cable and select your phone as the iOS simulator. 
+7. You may have to approve the application on your iPhone and ensure that your iPhone meets the prerequisites to view the application on iOS.
+```
 
 ## Built With
 **Frontend: Swift** <br>
