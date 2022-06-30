@@ -1,4 +1,5 @@
-![FBLA Mobile Application Development Slides](https://user-images.githubusercontent.com/102203536/175859560-dedaba40-6660-43ce-8e15-6113978913e3.png)
+![FBLA Mobile Application Development Slides (2)](https://user-images.githubusercontent.com/102203536/176668507-e0998c84-2347-47ad-b114-23b63277b02a.png)
+
 
 # @NCHS
 
