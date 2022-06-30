@@ -137,8 +137,8 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 ## Acknowledgments 
 Thanks to the [100 Days of SwiftUI - Hacking with Swift](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson for its free collection of videos, tutorials, tests, and more, allowing us to learn SwiftUI effectively!
  
-Thanks to Mr. Jeffery Stride, our knowledgable and passionate AP Computer Science A teacher! <br>
 Thanks to Mr. Ian Barnes, our dedicated and supportive chapter and regional FBLA advisor! <br>
+Thanks to Mr. Jeffery Stride, our knowledgable and passionate AP Computer Science A teacher! <br>
 Thanks to Ms. Nancy Nygren, our school technology specialist, for assistance in web scraping using the iCalendar Python module!
 
 Thanks to the FBLA-PBL organization for conducting this enterprising and rewarding mobile application development opportunity!
@@ -146,8 +146,11 @@ Thanks to the FBLA-PBL organization for conducting this enterprising and rewardi
 ## Copyright Information 
 - All unoriginal images used throughout the presentation of @NCHS are protected under [Fair Use and Other Educational Uses](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) and credited at (Sources for @NCHS Images). <br>
 - [SF Symbols](https://developer.apple.com/sf-symbols/) were integrated to generate TabView icons. <br>
-- iPadOS, Swift, SwiftUI, and Xcode are all [registered trademarks of Apple Inc.](https://www.apple.com/legal/intellectual-property/trademark/appletmlist.html) <br>
+
+### Trademarks
 - Firebase platform is a registered trademark of Google LLC. <br>
 - iOS is a registered trademark of Cisco in the U.S. and other countries. <br>
+- iPadOS, Swift, SwiftUI, and Xcode are all [registered trademarks of Apple Inc.](https://www.apple.com/legal/intellectual-property/trademark/appletmlist.html) <br>
+
 - Google logo used for application graphics in accordance with [Google's trademark usage guidelines](https://www.google.com/permissions/trademark/rules.html). <br>
-- All images not acknowledged above that are contained in the presentation of @NCHS are our original works of authorship.
+- All unacknowledged images contained in the presentation of @NCHS are our original works of authorship.
