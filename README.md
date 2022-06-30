@@ -5,7 +5,7 @@
 >_Enhancing the North Creek High School Digital Experience_
 
 **Relevant Links** <br>
-- @NCHS Presentation Slides <br>
+- [@NCHS Presentation Slides](https://www.canva.com/design/DAFEWC91B74/-e0ICejUoEmNUzMfDP5gPg/view?utm_content=DAFEWC91B74&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <br>
 - @NCHS Promotional Video <br>
 
 ## Abstract 
@@ -62,8 +62,10 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 
 ## Security
 
+<p align=justify>
 @NCHS supports both a student view and a staff view mode, each with its own separate application. The staff view's TestFlight public link is not publicly displayed due to  the administrative abilities that come with it. In the "Updates" page, students will have the option of requesting an update, which will be received by other users. As a precautionary measure against spamming and inappropriate content, staff users will have the ability to confirm or deny student updates before they are published to other student users. This ability is enabled through the backend firebase powering the app. Additionally, only staff users may publish announcements to the homepage.
-
+<p align=justify>
+ 
 ## App Pages (High Level)
 
 ## Accounts Page
