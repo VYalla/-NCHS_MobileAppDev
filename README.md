@@ -1,8 +1,7 @@
 ![FBLA Mobile Application Development Slides (2)](https://user-images.githubusercontent.com/102203536/176668507-e0998c84-2347-47ad-b114-23b63277b02a.png)
 
 
-# @NCHS
-
+# @NCHS Version 6.0
 >_Enhancing the North Creek High School Digital Experience_
 
 **Relevant Links** <br>
@@ -125,6 +124,9 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 - Tracker page allows students to list extracurricular activities they are involved in. <br>
 - Explore page produces a list of clubs, competitions, and volunteering opportunities, with North Creek clubs starred.
 
+![@NCHS Opportunities Page](https://user-images.githubusercontent.com/102203536/176677204-cfd7f4db-619b-4ab7-810c-1b35bc0801f2.png)
+
+
 ## Resources Page
 
 **Objective:** To equip students with school-provided resources that will aid them through their academic journey.
@@ -133,6 +135,9 @@ Functioned as database structure running the Home Page, Resource Page, and all c
 - Buttons directing to locations containing digital tools, a staff directory, campus map, print schedule, and a lunch menu.
 - Digital tools includes links to Clever, Google Drive, Naviance, Remind, Schoology, and StudentVUE.
 - Staff directory lists name of all North Creek faculty with the ability to email each individual listed.
+
+![@NCHS Resources Page Flowchart](https://user-images.githubusercontent.com/102203536/176677761-da9a818f-a6b3-400b-aca1-772553203680.png)
+
 
 ## Acknowledgments 
 Thanks to the [100 Days of SwiftUI - Hacking with Swift](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson for its free collection of videos, tutorials, tests, and more, allowing us to learn SwiftUI effectively!
@@ -144,13 +149,19 @@ Thanks to Ms. Nancy Nygren, our school technology specialist, for assistance in 
 Thanks to the FBLA-PBL organization for conducting this enterprising and rewarding mobile application development opportunity!
  
 ## Copyright Information 
-- All unoriginal images used throughout the presentation of @NCHS are protected under [Fair Use and Other Educational Uses](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html) and credited at (Sources for @NCHS Images). <br>
+- All unoriginal images used throughout the presentation of @NCHS are protected under [Fair Use and Other Educational Uses](https://www.lib.uchicago.edu/copyrightinfo/fairuse.html). <br> 
+- These images are credited at [Sources for @NCHS Images](https://docs.google.com/document/d/1tkKYaWiJxhO7J53iLcruKSF4rwKByxIaCiCpV9FmGlE/edit?usp=sharing). <br>
 - [SF Symbols](https://developer.apple.com/sf-symbols/) were integrated to generate TabView icons. <br>
-
-### Trademarks
-- Firebase platform is a registered trademark of Google LLC. <br>
-- iOS is a registered trademark of Cisco in the U.S. and other countries. <br>
-- iPadOS, Swift, SwiftUI, and Xcode are all [registered trademarks of Apple Inc.](https://www.apple.com/legal/intellectual-property/trademark/appletmlist.html) <br>
-
 - Google logo used for application graphics in accordance with [Google's trademark usage guidelines](https://www.google.com/permissions/trademark/rules.html). <br>
 - All unacknowledged images contained in the presentation of @NCHS are our original works of authorship.
+
+
+### Trademarks
+- Firebase platform is a [registered trademark of Google LLC](https://about.google/brand-resource-center/trademark-list/). <br>
+- iOS is a [registered trademark of Cisco](https://community.cisco.com/t5/collaboration-voice-and-video/cisco-trademarks-cisco-brands-cisco-registered-trademarks/ta-p/3137976) in the U.S. and other countries. <br>
+- iPadOS, Swift, SwiftUI, and Xcode are all [registered trademarks of Apple Inc.](https://www.apple.com/legal/intellectual-property/trademark/appletmlist.html) <br>
+
+## Coming Soon
+- Machine Learning applications using user data
+- Android platform compatibility 
+- TestFlight installation
