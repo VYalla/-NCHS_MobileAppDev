@@ -45,17 +45,13 @@
 - _Apple's powerful and intuitive programming language for iOS._ <br>
 - Used for user interface and implementation.
 
-**Backend: Firebase** <br>
+**Backend: Firebase Realtime Database** <br>
 - _Google's backend-as-a-service app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for static files._
-- Used to enable Google account authentication and store user data, including schedule, tracker information, goals, and personal calendar.
+- Used to enable Google account authentication and store user data.
+- Provided utilities for tracking analytics and reporting and fixing application crashes.
 - Powers communication-based features of app including announcements and updates, and staff additional abilities in these areas.
 
 **Integrated Development Environment:** Xcode; Compatible with AppCode, CodeRunner, Visual Studio Code
-
-
-Functioned as database structure running the Home Page, Resource Page, and all communication-related aspects of the application.
-- These communication-related aspects included the interactive Announcements Page and Updates Page.
-- Additionally, Firebase provided utilities for tracking analytics, and reporting and fixing application crashes.
 
 ## Privacy and Security
 
