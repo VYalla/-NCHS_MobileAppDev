@@ -34,10 +34,11 @@
 **Prerequisite:** macOS Monterey version 12.0 or newer
 
 ```
-1. Install Xcode Developer Tools version 13.4.1 from the Mac App Store. https://apps.apple.com/us/app/xcode/id497799835?mt=12 <br>
-2. Follow the provided instructions to download this repository as a ZIP file: https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/ <br>
-3. Locate the @NCHS.xcodeprof file within the newly extracted @NCHS folder and open the file with XCode. <br>
-4. After clicking open, click on the uppermost blue @NCHS file and change the provisioning profile to your own developer account. <br>
+1. Install Xcode Developer Tools version 13.4.1 from the Mac App Store. 
+   https://apps.apple.com/us/app/xcode/id497799835?mt=12 <
+2. Follow the provided instructions to download this repository as a ZIP file: https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/
+3. Locate the @NCHS.xcodeprof file within the newly extracted @NCHS folder and open the file with XCode.
+4. After clicking open, click on the uppermost blue @NCHS file and change the provisioning profile to your own developer account.
 5. Build the project using the following instructions. Set the build scheme to @NCHS and ensure that the selected iOS simulator meets the prerequisites to view the application on iOS. https://developer.apple.com/documentation/xcode/building-and-running-an-app?changes=_8 
 ```
 
