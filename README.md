@@ -37,7 +37,7 @@
 
 ### To View the Application on iOS
 ```
-6. To directly download @NCHS onto your iPhone, plug your own phone into the computer using a Universal Serial Bus cable and select your phone as the iOS simulator. 
+6. To directly download @NCHS onto your iPhone, plug your own phone into the computer using a USB cable and select your phone as the iOS simulator. 
 7. You may have to approve the application on your iPhone and ensure that your iPhone meets the prerequisites to view the application on iOS.
 ```
 
