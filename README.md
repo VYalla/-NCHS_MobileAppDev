@@ -4,9 +4,7 @@
 # @NCHS Version 6.0
 >_Enhancing the North Creek High School Digital Experience_
 
-**Relevant Links** <br>
-- [@NCHS Presentation Slides](https://www.canva.com/design/DAFEWC91B74/-e0ICejUoEmNUzMfDP5gPg/view?utm_content=DAFEWC91B74&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <br>
-- @NCHS Promotional Video <br>
+- [@NCHS Presentation Slides](https://www.canva.com/design/DAFEWC91B74/-e0ICejUoEmNUzMfDP5gPg/view?utm_content=DAFEWC91B74&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
 
 ## Abstract 
 
