@@ -63,7 +63,7 @@
  
 ## App Pages (High Level)
 - Used navigation links in a ScrollView with LinearGradient boxes containing various information. 
-- 
+-
 ![@NCHS High Level Workflow](https://user-images.githubusercontent.com/102203536/176675325-d91b233a-2514-4ea0-a394-22b9ceedf608.png)
 
 ## Accounts Page
